@@ -1,1 +1,1 @@
-React Netflix Clone https:https://react-project-20.netlify.app/
+React Netflix Clone https: https://raizoxd.github.io/Netflix-clone-xd
